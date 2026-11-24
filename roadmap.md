@@ -1,0 +1,16 @@
+# Roadmap (full build plan)
+- [x] Shared: private photo store, photo capture + GDPR blackout, reference numbers, Yes/No/N/A checklists
+- [x] Phase 1: Shift Handover (6 sections), defect photos
+- [x] Phase 1: home status strip with threat level
+- [x] Phase 2: Callouts, Barrier, Spillage, Weather dedicated screens
+- [x] Phase 3: RED HAT upgrade, Counter Terrorism, Fire/CCTV tabs, Radon, Vacant Unit
+- [x] Phase 4: Keys, equipment dashboard, kiosk mode
+- [x] Phase 5: Person/contractor check-in with signature, Lost & Found, patrol runner
+- [x] Phase 6: Rostering grid, shift check-off, training hub, compliance pack
+- [x] Phase 6: granular page permissions editor, tenant email composer (opens your mail app)
+- [x] Pre-publish: block crawlers, admin password reset, login slips, idle sign-out
+- [x] Tenants: add, edit and confirm deletion of linked out-of-hours contacts in the phone pop-up
+- [x] Tenants: show all spreadsheet details and add field-based ascending/descending sorting
+- [x] Red Hat: load active tenants and currently signed-in people at evacuation start and on demand
+- [x] Missing Base44 bits: user guide, site reports, quarterly archive, tablet check-in, bulk sign out/return, regular visitors, overdue alerts bell
+- [x] Visitor QR check-in (public, site key) and offline save queue for check-ins and logs

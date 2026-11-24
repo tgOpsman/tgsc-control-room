@@ -1,0 +1,2 @@
+ALTER TABLE public.control_rooms ADD COLUMN IF NOT EXISTS checkin_token uuid NOT NULL DEFAULT gen_random_uuid();
+CREATE UNIQUE INDEX IF NOT EXISTS control_rooms_checkin_token_idx ON public.control_rooms(checkin_token);

@@ -1,0 +1,1 @@
+DELETE FROM public.check_in_records WHERE full_name = 'QR Test Person' AND extra->>'source' = 'qr';
